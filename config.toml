@@ -14,4 +14,4 @@ file = "en.json"
 
 [content]
 frontMatterFormat = "toml"
-systems = [ "homeassistant", "plex", "timestampr", "nodered", "gogs", "blog"]
+systems = [ "homeassistant", "plex", "timestampr", "nodered", "gogs", "blog", "dns"]
