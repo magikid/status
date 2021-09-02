@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.hilandchris.com</id>
     <title>hilandchris.com Status</title>
-    <updated>2021-09-02T17:14:31.784Z</updated>
+    <updated>2021-09-02T18:01:56.094Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.hilandchris.com"/>
     <link rel="self" href="https://status.hilandchris.com/feeds/incidents.en.atom"/>
     <subtitle>This website shows the status of the services running on hilandchris.com</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Upgrades]]></title>
+        <id>https://status.hilandchris.com/incidents/61c9b13b</id>
+        <link href="https://status.hilandchris.com/incidents/61c9b13b"/>
+        <updated>2021-09-02T17:06:33.996Z</updated>
+        <content type="html"><![CDATA[<p>The pi-hole DNS system will be upgraded at 1:15 PM</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Plex is down due to reboot]]></title>
         <id>https://status.hilandchris.com/incidents/0ea63f9a</id>

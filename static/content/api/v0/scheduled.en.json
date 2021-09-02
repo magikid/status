@@ -1,1 +1,1 @@
-{"count":1,"incidents":[{"id":"61c9b13b","title":"Upgrades","date":"2021-09-02T17:06:33.996Z","modified":"2021-09-02T17:14:17.289Z","scheduled":"2021-09-02T17:15:00.000Z","duration":30,"severity":"under-maintenance","affectedsystems":["dns"],"resolved":false,"content":"<p>The pi-hole DNS system will be upgraded at 1:15 PM</p>\n<!--- language code: en -->\n"}]}
+{"count":0,"incidents":[]}
