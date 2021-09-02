@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://status.hilandchris.com</id>
+    <title>hilandchris.com Status</title>
+    <updated>2021-09-02T16:06:23.653Z</updated>
+    <generator>Statusfy</generator>
+    <link rel="alternate" href="https://status.hilandchris.com"/>
+    <link rel="self" href="https://status.hilandchris.com/feeds/incidents.en.atom"/>
+    <subtitle>This website shows the status of the services running on hilandchris.com</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Plex is down due to reboot]]></title>
+        <id>https://status.hilandchris.com/incidents/0ea63f9a</id>
+        <link href="https://status.hilandchris.com/incidents/0ea63f9a"/>
+        <updated>2021-09-02T15:58:30.971Z</updated>
+        <content type="html"><![CDATA[<!--- language code: en -->
+]]></content>
+    </entry>
+</feed>
