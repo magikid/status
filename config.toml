@@ -1,0 +1,18 @@
+title = "hilandchris.com Status"
+name = "hilandchris.com_status"
+description = "This website shows the status of the services running on hilandchris.com"
+defaultLocale = "en"
+baseUrl = "https://status.hilandchris.com"
+
+[[analytics]]
+ga = ""
+
+[[locales]]
+code = "en"
+iso = "en-US"
+name = "English"
+file = "en.json"
+
+[content]
+frontMatterFormat = "toml"
+
