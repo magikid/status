@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.hilandchris.com</id>
     <title>hilandchris.com Status</title>
-    <updated>2021-09-02T18:25:03.087Z</updated>
+    <updated>2021-09-02T18:28:19.519Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.hilandchris.com"/>
     <link rel="self" href="https://status.hilandchris.com/feeds/incidents.en.atom"/>
@@ -14,6 +14,13 @@
         <updated>2021-09-02T17:06:33.996Z</updated>
         <content type="html"><![CDATA[<p>The pi-hole DNS system will be upgraded at 1:15 PM</p>
 <!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2021-09-02T18:09:59.638Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>The DNS service has been successfully updated.</p>
+</div></div></div>
 ]]></content>
     </entry>
     <entry>
