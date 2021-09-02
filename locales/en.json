@@ -1,4 +1,10 @@
 {
   "title": "Hilandchris.com Status",
-  "description": "This website shows the status of the services running on hilandchris.com"
+  "description": "This website shows the status of the services running on hilandchris.com",
+  "systems.items.homeassistant.title": "Home Assistant",
+  "systems.items.gogs.title": "Gogs",
+  "systems.items.nodered.title": "Node Red",
+  "systems.items.plex.title": "Plex",
+  "systems.items.timestampr.title": "timestampr",
+  "systems.items.blog.title": "Writefreely Blog"
 }

@@ -4,9 +4,6 @@ description = "This website shows the status of the services running on hilandch
 defaultLocale = "en"
 baseUrl = "https://status.hilandchris.com"
 
-[[analytics]]
-ga = ""
-
 [[locales]]
 code = "en"
 iso = "en-US"
@@ -15,4 +12,4 @@ file = "en.json"
 
 [content]
 frontMatterFormat = "toml"
-
+systems = [ "homeassistant", "plex", "timestampr", "nodered", "gogs", "blog"]
