@@ -11,7 +11,7 @@
     "generate": "statusfy generate",
     "new-incident": "statusfy new-incident",
     "delete-incident": "statusfy delete-incident",
-    "update-incident": "statusfy update-incident",
+    "update-incident": "statusfy update-incident"
   },
   "dependencies": {
     "@babel/preset-env": "^7.12.17",
