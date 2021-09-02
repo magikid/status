@@ -1,10 +1,27 @@
 {
   "title": "Hilandchris.com Status",
   "description": "This website shows the status of the services running on hilandchris.com",
-  "systems.items.homeassistant.title": "Home Assistant",
-  "systems.items.gogs.title": "Gogs",
-  "systems.items.nodered.title": "Node Red",
-  "systems.items.plex.title": "Plex",
-  "systems.items.timestampr.title": "timestampr",
-  "systems.items.blog.title": "Writefreely Blog"
+  "systems": {
+    "items": {
+      "homeassistant": {
+        "title": "Home Assistant"
+      },
+      "gogs": {
+        "title": "Gogs"
+      },
+      "nodereg": {
+        "title": "Node Red"
+      },
+      "plex": {
+        "title": "Plex"
+      },
+      "timestampr": {
+        "title": "timestampr"
+      },
+      "blog": {
+        "title": "Writefreely Blog"
+      }
+    }
+
+  }
 }
