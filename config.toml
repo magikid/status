@@ -3,6 +3,8 @@ name = "hilandchris.com_status"
 description = "This website shows the status of the services running on hilandchris.com"
 defaultLocale = "en"
 baseUrl = "https://status.hilandchris.com"
+serviceWorker = true
+manifest = true
 
 [[locales]]
 code = "en"
