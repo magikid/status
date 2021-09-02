@@ -12,7 +12,7 @@
     "new-incident": "statusfy new-incident",
     "delete-incident": "statusfy delete-incident",
     "update-incident": "statusfy update-incident",
-    "deploy": "gh-pages -d dist"
+    "deploy": "echo 'status.hilandchris.com' > ./dist/CNAME && gh-pages -d dist"
   },
   "dependencies": {
     "@babel/preset-env": "^7.12.17",
