@@ -1,1 +1,1 @@
-[{"name":"api","status":"operational","order":1},{"name":"cdn","status":"operational","order":2},{"name":"dns","status":"operational","order":3},{"name":"site-delivery","status":"major-outage","order":4}]
+[{"name":"homeassistant","status":"operational","order":1},{"name":"plex","status":"major-outage","order":2},{"name":"timestampr","status":"operational","order":3},{"name":"node-red","status":"operational","order":4},{"name":"gogs","status":"operational","order":5},{"name":"blog","status":"operational","order":6}]
